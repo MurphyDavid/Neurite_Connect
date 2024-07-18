@@ -64,6 +64,7 @@ The script generates the following output files named based on the first image p
 4. **Nuclei Connection Graph**: `cell_walls_image_nuclei_connection_graph_100px.png`
 5. **Connection Metrics CSV**: `cell_walls_image_connection_metrics.csv`
 6. **Edges CSV**: `cell_walls_image_edges.csv`
+7. **connection metrics**: `connection_metrics.csv`
 
 ## Contributing
 
