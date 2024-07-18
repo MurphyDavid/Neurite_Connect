@@ -1,4 +1,4 @@
-# Neuro_Connect
+# Neurite_Connect
 
 A Python script for identifying nuclei and connections from stained images.
 
