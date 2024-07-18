@@ -56,16 +56,14 @@ python process_images.py data/nuclei_image.tif data/cell_walls_image.tif
 
 ## Output
 
-The script generates the following output files:
+The script generates the following output files named based on the first image provided:
 
-1. **Segmented Image with Stricter Outliers**: `nuclei_image_segmented_with_stricter_outliers.png`
-2. **Large Outliers Processed**: `nuclei_image_large_outliers_processed.png`
-3. **Final Combined Image**: `nuclei_image_final_combined.png`
-4. **Centroids CSV**: `nuclei_image_centroids.csv`
-5. **Metrics TXT**: `nuclei_image_metrics.txt`
-6. **Nuclei Connection Graph**: `cell_walls_image_nuclei_connection_graph_100px.png`
-7. **Connection Metrics CSV**: `cell_walls_image_connection_metrics.csv`
-8. **Edges CSV**: `cell_walls_image_edges.csv`
+1. **Final Combined Image**: `nuclei_image_final_combined.png`
+2. **Centroids CSV**: `nuclei_image_centroids.csv`
+3. **Metrics TXT**: `nuclei_image_metrics.txt`
+4. **Nuclei Connection Graph**: `cell_walls_image_nuclei_connection_graph_100px.png`
+5. **Connection Metrics CSV**: `cell_walls_image_connection_metrics.csv`
+6. **Edges CSV**: `cell_walls_image_edges.csv`
 
 ## Contributing
 
