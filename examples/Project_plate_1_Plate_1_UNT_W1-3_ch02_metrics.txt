@@ -1,0 +1,2 @@
+mean_area,median_area,std_area,threshold_upper_strict,outliers_large_strict,total_nuclei
+1278.7764227642276,399.0,2616.6334843605123,798.0,73,246
